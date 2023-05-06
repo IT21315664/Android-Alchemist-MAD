@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Crd_marginTop">124dp</dimen>
+    <dimen name="crd_width">160dp</dimen>
+    <dimen name="crd_height">160dp</dimen>
+    <dimen name="crd_marginStart">28dp</dimen>
+    <dimen name="crd_marginTop">124dp</dimen>
+   <dimen name="crd_marginEnd">8dp</dimen>
+
+   <dimen name="form_txtwidth">294dp</dimen>
+    <dimen name="form_txtheight">45dp</dimen>
+    <dimen name="form_marginStrt">16dp</dimen>
+    <dimen name="form_marginBottom">24dp</dimen>
+
+
+</resources>
