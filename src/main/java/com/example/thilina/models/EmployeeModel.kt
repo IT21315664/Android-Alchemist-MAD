@@ -1,0 +1,19 @@
+package com.example.thilina.models
+
+
+
+data class EmployeeModel(
+
+    var empId :String?= null,
+    var empName :String?= null,
+    var empEmail :String?= null,
+    var empPhone :String?= null,
+    var empRes :String?= null,
+    var empReg :String?= null,
+    var empHotel :String?= null,
+    var empComEmail :String?= null,
+    var empFloor :String?= null,
+    var empDes :String?= null
+
+
+)
